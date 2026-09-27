@@ -50,7 +50,7 @@ Also install the ESP8266 board package from the Board Manager:
 
 Edit the following lines in the sketch before uploading:
 
-```cpp
+```cppz
 const char* ssid = "admin";
 const char* password = "123456789";
 ```
