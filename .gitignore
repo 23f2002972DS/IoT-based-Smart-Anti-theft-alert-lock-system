@@ -1,0 +1,17 @@
+# Arduino/ESP8266 generated files
+*.bin
+*.elf
+*.hex
+*.zip
+*.bak
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+build/
